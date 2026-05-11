@@ -24,7 +24,7 @@ ninja.data = [{
                 window.location.href = "/products/";
               },
             },{id: "nav-publications",
-          title: "publications",
+          title: "Publications",
           description: "Publications are listed in reverse chronological order.",
           section: "Navigation",
           handler: () => {
