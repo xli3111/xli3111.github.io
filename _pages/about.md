@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: PhD Candidate at GaTech EAS
+subtitle: PhD Candidate at Georgia Tech EAS
 
 profile:
   align: right
